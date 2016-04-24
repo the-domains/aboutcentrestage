@@ -1,8 +1,7 @@
-name: ABOUT US
+name: ABOUTCENTRESTAGE
 favicon: null
-layout_spectrum: 0.55063
-typography_spectrum: 0.75316
-title: ABOUT US
+layout_spectrum: 0.09545436315238476
+typography_spectrum: 0.9293647564481944
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#f6931e'
-    - '#ffffff'
-    - '#838383'
-    - '#a5133a'
-  brandStrength: 0.8125
-  lightness: 0.6875
-  saturation: 0.375
-  rhythmicContrast: 0.5
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2393217773642391
+  lightness: 0.17450830666348338
+  saturation: 0.2920456510037184
+  rhythmicContrast: 0.4925036998465657
 purpose: []
